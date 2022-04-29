@@ -1,16 +1,22 @@
-### Hi there 👋
+### Olá! Eu sou o Vitor Brandão 👋😃
 
-<!--
-**BrandaoLMerlin/BrandaoLMerlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🏫 Estudante de Sistemas de Informação - UNINOVE
+- :green_heart: Estagiário em Ciência de Dados - Leroy Merlin
+- :mechanical_arm: Leroy Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=brandao20vtr&show_icons=true&theme=tokyonight)
+
+##
+
+### E-mail para contato 📞
+- 📧 vitor.bjd20@gmail.com
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-brand%C3%A3o-6955481b1/)
+
+##
+
+ ![Snake animation](https://github.com/brandao20vtr/brandao20vtr/blob/output/github-contribution-grid-snake.svg)
