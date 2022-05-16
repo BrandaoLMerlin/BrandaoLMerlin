@@ -8,7 +8,7 @@
 
 ##
 
-![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=brandao20vtr&show_icons=true&theme=tokyonight)
+![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandaoLMerlin&show_icons=true&theme=tokyonight)
 
 ##
 
@@ -19,4 +19,4 @@
 
 ##
 
- ![Snake animation](https://github.com/brandao20vtr/brandao20vtr/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/BrandaoLMerlin/BrandaoLMerlin/blob/output/github-contribution-grid-snake.svg)
